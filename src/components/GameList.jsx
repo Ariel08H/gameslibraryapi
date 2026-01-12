@@ -1,4 +1,4 @@
-import GamePreview from "./gamePreview";
+import GamePreview from "./GamePreview";
 
 const GameList = ({games, limit}) => {
   return (
